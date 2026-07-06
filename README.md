@@ -9,7 +9,7 @@ Focused server-side examples for building Wan 2.2 Fast text-to-video and image-t
 
 Wan 2.2 Fast is useful for low-cost video draft loops, one-frame or two-frame guided motion tests, and quick creative direction checks before moving to heavier models.
 
-[Model Page](https://poyo.ai/models/wan-2-2-fast) | [Docs](https://docs.poyo.ai/api-manual/video-series/wan2.2-text-to-video-fast) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
+[Try on PoYo](https://poyo.ai/models/wan-2-2-fast) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Docs](https://docs.poyo.ai/api-manual/video-series/wan2.2-text-to-video-fast) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
 
 ## What This Repo Covers
 
